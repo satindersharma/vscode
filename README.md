@@ -1,16 +1,29 @@
 # vsconfig
 Visual Studio Code configuration for django
 
+
+
 ## Shot discription:
 
 ### To create settings.json
+
+
 ctrl+shift+p
+
 python:Select Interpreter
 
+
+
 ### To create launch.json:
+
+
 ctrl+shift+p
+
 more
+
 Django
+
+
 
 
 ## Long discription:
