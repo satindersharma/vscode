@@ -62,6 +62,6 @@ and
 
 
 
-<a src="https://github.com/satindersharma/django-getting-started">
+<a href="https://github.com/satindersharma/django-getting-started" alt"Django Getting Started">
  <h2>Click here to get started with django</h2>
 </a>
