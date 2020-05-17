@@ -35,8 +35,11 @@ choose a name for this file for example `project`
 
 ### set shotcut to folders to collapse
 
+
 click on `Manage` (setting like icon on left lower corner) > `Keyborad Shortcuts`
+
 search     `workbench.files.action.collapseExplorerFolders`
+
 `+` to add a shortcut
 
 
