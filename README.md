@@ -24,6 +24,15 @@ Visual Studio Code configuration for django
 `Django`
 
 
+### To create project.code-workspace:
+
+
+`File > Add Folder to Workspace...`
+
+`File > Save Workspace As...`
+
+`choose a name for this file for example project`
+
 
 
 ## Long discription:
@@ -60,6 +69,19 @@ and
 
 ``` ctrl+shift+` ``` ( to open terminal)
 
+
+
+### To create project.code-workspace:
+
+
+`File > Add Folder to Workspace...`
+
+`File > Save Workspace As...`
+
+`choose a name for this file for example project`
+
+this file contains the settings related to the currunt project
+this is helpful incase you want some settings or configuration only for your current folder but not for all vscode global settings.
 
 
 <a href="https://github.com/satindersharma/django-getting-started" target="_blank"><h3>Click here to get started with django</h3></a>
