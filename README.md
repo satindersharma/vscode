@@ -85,4 +85,4 @@ this file contains the settings related to the currunt project
 this is helpful incase you want some settings or configuration only for your current folder but not for all vscode global settings.
 
 
-<a href="https://github.com/satindersharma/django-getting-started" target="_blank"><h3>Click here to get started with django</h3></a>
+<a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h3>Click here to get started with django</h3></a>
