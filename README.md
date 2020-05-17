@@ -33,14 +33,25 @@ Visual Studio Code configuration for django
 
 choose a name for this file for example `project`
 
+
 ### set shotcut to folders to collapse
 
 
-click on `Manage` (setting like icon on left lower corner) > `Keyborad Shortcuts`
+click on `Manage` (setting like icon on left lower corner) > `Keyborad Shortcuts`(or press `ctrl+k` and `ctrl+s` consecutively)
 
 search     `workbench.files.action.collapseExplorerFolders`
 
 `+` to add a shortcut
+
+
+### Prevent closing of previous open window
+
+click on `Manage` (setting like icon on left lower corner) > `Settings`(or press `ctrl+,`)
+
+
+search    "workbench.editor.enablePreview"
+
+
 
 
 ## Long discription:
@@ -91,13 +102,6 @@ choose a name for this file for example `project`
 
 this file contains the settings related to the currunt project
 this is helpful incase you want some settings or configuration only for your current folder but not for all vscode global settings.
-
-
-# set shotcut to folders to collapse
-
-click on `Manage` (setting like icon on left lower corner) > `Keyborad Shortcuts`
-search     `workbench.files.action.collapseExplorerFolders`
-`+` to add a shortcut
 
 
 
