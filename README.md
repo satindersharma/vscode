@@ -33,6 +33,11 @@ Visual Studio Code configuration for django
 
 choose a name for this file for example `project`
 
+### set shotcut to folders to collapse
+
+click on `Manage` (setting like icon on left lower corner) > `Keyborad Shortcuts`
+search     `workbench.files.action.collapseExplorerFolders`
+`+` to add a shortcut
 
 
 ## Long discription:
@@ -83,6 +88,17 @@ choose a name for this file for example `project`
 
 this file contains the settings related to the currunt project
 this is helpful incase you want some settings or configuration only for your current folder but not for all vscode global settings.
+
+
+# set shotcut to folders to collapse
+
+click on `Manage` (setting like icon on left lower corner) > `Keyborad Shortcuts`
+search     `workbench.files.action.collapseExplorerFolders`
+`+` to add a shortcut
+
+
+
+
 
 
 <a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h3>Click here to get started with django</h3></a>
