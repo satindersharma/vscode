@@ -27,11 +27,11 @@ Visual Studio Code configuration for django
 ### To create project.code-workspace:
 
 
-`File > Add Folder to Workspace...`
+`File` > `Add Folder to Workspace...`
 
-`File > Save Workspace As...`
+`File` > `Save Workspace As...`
 
-`choose a name for this file for example project`
+choose a name for this file for example `project`
 
 
 
@@ -74,11 +74,12 @@ and
 ### To create project.code-workspace:
 
 
-`File > Add Folder to Workspace...`
+`File` > `Add Folder to Workspace...`
 
-`File > Save Workspace As...`
+`File` > `Save Workspace As...`
 
-`choose a name for this file for example project`
+choose a name for this file for example `project`
+
 
 this file contains the settings related to the currunt project
 this is helpful incase you want some settings or configuration only for your current folder but not for all vscode global settings.
