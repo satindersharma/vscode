@@ -1,6 +1,12 @@
 # vsconfig
 Visual Studio Code configuration for django
 
+## folder structure be like
+`.vscode`
+   -  `launch.json`
+   -  `settings.json`
+   -  `tasks.json`
+   
 
 
 ## Shot discription:
@@ -21,6 +27,11 @@ Visual Studio Code configuration for django
 
 `Python` > `Django`
 
+
+### To create tasks.json:
+
+Run Build Task (Ctrl+Shift+B).
+`Ctrl+Shift+B`
 
 
 ### To create project.code-workspace:
