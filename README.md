@@ -19,9 +19,8 @@ Visual Studio Code configuration for django
 
 `ctrl+shift+p`
 
-`more`
+`Python` > `Django`
 
-`Django`
 
 
 ### To create project.code-workspace:
@@ -68,10 +67,15 @@ choose one Interpreter and it will gentrate a file  `settings.json` inside `.vsc
 Click on `debug` icon(4th one on the left corner) -->   click on `create a launch.json file`
  
  the pop up search bar like will apear which is a `debug configuration bar`
-now under debug configuration bar click on `more`
+ `Python` > `Django`
+ 
+ (
+when there is no Python then
+under debug configuration bar click on `more`
 (if no other menu appear it means you havn't set your python interpreter)
 
 click on `django`
+)
 
 this will create a `launch.json` file
 
