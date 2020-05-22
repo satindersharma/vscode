@@ -1,8 +1,6 @@
 // where vme is the virtualenv folder name
 
 {
-    "python.pythonPath": "vme\\Scripts\\python.exe",
-    "python.envFile": "${workspaceFolder}/.vme",
-    "python.venvPath": "${workspaceFolder}/.vme"
+    "python.pythonPath": "vme\\Scripts\\python.exe"
 }
 
