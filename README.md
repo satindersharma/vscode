@@ -123,4 +123,4 @@ this is helpful incase you want some settings or configuration only for your cur
 
 
 
-<a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h3>Click here to get started with django</h3></a>
+<a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h2>Click here to Get Started with Django</h2></a>
