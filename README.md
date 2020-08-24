@@ -126,6 +126,17 @@ check this field
 Make this to true so the pritter will format the document.
 
 
+### open folder in new window
+settings > open folder in new window
+dropdown to on 
+
+### Stop closing the non changed tab
+
+workbench.editor.enablePreview
+
+settings > workbench.editor.enablePreview
+uncheck to make changes(means set to false)
+
 
 
 <a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h2>Click here to Get Started with Django</h2></a>
