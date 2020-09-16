@@ -186,7 +186,9 @@ search join lines
 hit enter
 
 
+### Switch between recent tabs
 
+ctrl + Tab
 
 
 
