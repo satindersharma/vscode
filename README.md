@@ -138,5 +138,33 @@ settings > workbench.editor.enablePreview
 uncheck to make changes(means set to false)
 
 
+### Move back to last cursor position
+ctrl + u
+
+
+
+### split
+ctrl + \
+
+
+### collapse all code
+ctrl + k + 0
+
+### expand all code
+ctrl + k + j
+
+
+### join lines
+make selection of the lines which you want in one line
+F1
+search join lines
+hit enter
+
+
+
+
+
+
+
 
 <a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h2>Click here to Get Started with Django</h2></a>
