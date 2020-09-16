@@ -191,6 +191,14 @@ hit enter
 ctrl + Tab
 
 
+### Run currunt line code
+
+(this will run the code in a new python shell)
+shift + enter
+
+
+
+
 
 
 
