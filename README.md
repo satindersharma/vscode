@@ -31,6 +31,7 @@ Visual Studio Code configuration for django
 ### To create tasks.json:
 
 Run Build Task (Ctrl+Shift+B).
+
 `Ctrl+Shift+B`
 
 
@@ -72,6 +73,7 @@ to create `settings.json`  ---->    just press `ctrl+shift+p` (this will open co
 type `python:Select Interpreter`
 
 This will look for availabel interpreter in your system.
+
 choose one Interpreter and it will gentrate a file  `settings.json` inside `.vscode` directory
 
 
@@ -82,7 +84,9 @@ Click on `debug` icon(4th one on the left corner) -->   click on `create a launc
  
  (
 when there is no Python then
+
 under debug configuration bar click on `more`
+
 (if no other menu appear it means you havn't set your python interpreter)
 
 click on `django`
@@ -116,18 +120,26 @@ choose a name for this file for example `project`
 
 
 this file contains the settings related to the currunt project
+
 this is helpful incase you want some settings or configuration only for your current folder but not for all vscode global settings.
 
 
 
 ### format on save
+
 setting > Format on Save 
+
 check this field
+
 Make this to true so the pritter will format the document.
 
 
+
+
 ### open folder in new window
+
 settings > open folder in new window
+
 dropdown to on 
 
 ### Stop closing the non changed tab
@@ -135,7 +147,10 @@ dropdown to on
 workbench.editor.enablePreview
 
 settings > workbench.editor.enablePreview
+
 uncheck to make changes(means set to false)
+
+
 
 
 ### Move back to last cursor position
@@ -148,16 +163,26 @@ ctrl + \
 
 
 ### collapse all code
+
 ctrl + k + 0
 
+
+
 ### expand all code
+
 ctrl + k + j
 
 
+
+
 ### join lines
+
 make selection of the lines which you want in one line
+
 F1
+
 search join lines
+
 hit enter
 
 
