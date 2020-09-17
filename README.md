@@ -196,7 +196,9 @@ ctrl + Tab
 (this will run the code in a new python shell)
 shift + enter
 
+### Get out of the qoutes
 
+Ctrl + Shift + \
 
 
 
