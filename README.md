@@ -200,6 +200,10 @@ shift + enter
 
 Ctrl + Shift + \
 
+### Show/Hide panel(the cmd panel)
+
+Ctrl + j
+
 
 
 
