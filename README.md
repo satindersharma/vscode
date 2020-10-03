@@ -200,11 +200,23 @@ shift + enter
 
 Ctrl + Shift + \
 
+
+
 ### Show/Hide panel(the cmd panel)
 
 Ctrl + j
 
 
+
+### Scroll Fast
+
+alt + scroll
+
+
+
+### move the cursor to error 
+
+f8
 
 
 
