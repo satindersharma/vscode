@@ -56,4 +56,9 @@
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
 
 
+    Name: HTML CSS Support
+    Id: ecmel.vscode-html-css
+    Description: CSS support for HTML documents
+    Publisher: ecmel
+    VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 
