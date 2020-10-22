@@ -1,6 +1,9 @@
 // where vme is the virtualenv folder name
 
 {
-    "python.pythonPath": "vme\\Scripts\\python.exe"
+    "python.pythonPath": "vme\\Scripts\\python.exe",
+    "python.venvPath": "/vme",
+    "editor.mouseWheelScrollSensitivity": 3,
+    "editor.fastScrollSensitivity": 10
 }
 
