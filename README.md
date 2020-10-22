@@ -9,7 +9,7 @@ Visual Studio Code configuration for django
    
 
 
-## Shot discription:
+## Short discription:
 
 ### To create settings.json
 
