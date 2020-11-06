@@ -5,6 +5,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "name": "Launch Chrome",
+      "request": "launch",
+      "type": "pwa-chrome",
+      "url": "http://192.168.0.240:8000",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
       "name": "Debug Django",
       "type": "python",
       "request": "launch",
