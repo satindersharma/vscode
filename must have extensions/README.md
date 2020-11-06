@@ -62,3 +62,11 @@
     Publisher: ecmel
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 
+
+    Name: Debugger for Chrome
+    Id: msjsdiag.debugger-for-chrome
+    Description: Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
+    Version: 4.12.11
+    Publisher: Microsoft
+    VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+
