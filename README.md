@@ -196,7 +196,7 @@ ctrl + Tab
 (this will run the code in a new python shell)
 shift + enter
 
-### Get out of the qoutes
+### Get out of the qoutes or get cursor out of the string
 
 Ctrl + Shift + \
 
