@@ -6,7 +6,7 @@
     {
       "label": "Django: Run Server",
       "type": "shell",
-      "command": "./vme/bin/python",
+      "command": "./vme/bin/python3",
       "windows": {
         "command": "vme\\Scripts\\python.exe"
       },
