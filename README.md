@@ -1,7 +1,7 @@
 # vs code
 <p align="center">
 <a href="https://github.com/satindersharma/vscode">
-<img src="https://github.com/satindersharma/all-images/blob/master/icons/vscodeicon.png" width="600px" height="600px" alt="Vscode icon">
+<img src="https://github.com/satindersharma/all-images/blob/master/icons/vscodeicon.png" width="30%" height="30%" alt="Vscode icon">
 </a>
 </p>
 # vsconfig
@@ -230,6 +230,6 @@ f8
 <a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h2>Click here to Get Started with Django</h2></a>
 <p align="center">
 <a href="https://github.com/satindersharma/django-getting-started">
-<img src="https://github.com/satindersharma/all-images/blob/master/icons/django-logo-positive.png" width="50%" height="50%" alt="Django icon">
+<img src="https://github.com/satindersharma/all-images/blob/master/icons/django-logo-positive.png"  alt="Django icon">
 </a>
 </p>
