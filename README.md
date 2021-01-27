@@ -228,3 +228,8 @@ f8
 
 
 <a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h2>Click here to Get Started with Django</h2></a>
+<p align="center">
+<a href="https://github.com/satindersharma/django-getting-started">
+<img src="https://github.com/satindersharma/all-images/blob/master/icons/django-logo-positive.png" width="50%" height="50%" alt="Django icon">
+</a>
+</p>
