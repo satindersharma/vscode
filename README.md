@@ -1,9 +1,9 @@
 # vs code
-
+<p align="center">
 <a href="https://github.com/satindersharma/vscode">
-<img src="https://github.com/satindersharma/all-images/blob/master/icons/vscodeicon.png" width="400px" height="400px" alt="Vscode icon">
+<img src="https://github.com/satindersharma/all-images/blob/master/icons/vscodeicon.png" width="600px" height="600px" alt="Vscode icon">
 </a>
-
+</p>
 # vsconfig
 
 Visual Studio Code configuration for django
