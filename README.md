@@ -1,4 +1,11 @@
+# vs code
+
+<a href="https://github.com/satindersharma/vscode">
+<img src="https://github.com/satindersharma/all-images/blob/master/icons/vscodeicon.png" alt="Vscode icon">
+</a>
+
 # vsconfig
+
 Visual Studio Code configuration for django
 
 ## folder structure be like
