@@ -266,6 +266,11 @@ search for Tasks: Restart Running task
 workbench.action.tasks.restartTask
 
 
+search for Collapse Folders in Explorer
+
+`ctrl+shift+alt+c`
+
+workbench.files.action.collapseExplorerFolders
 
 
 ```json
@@ -286,6 +291,12 @@ workbench.action.tasks.restartTask
   "key": "ctrl+shift+alt+b",
   "command": "workbench.action.tasks.restartTask"
 }
+
+{
+  "key": "ctrl+shift+alt+c",
+  "command": "workbench.files.action.collapseExplorerFolders"
+}
+
 ```
 
 
