@@ -227,6 +227,7 @@ f8
 
 
 ### Go to the defination
+
 `crtl+click` or `f12`
 
 
@@ -235,21 +236,37 @@ f8
 
 # add some cusotm key shortcut
 
-go to settings > click on keyboard shortcut
+go to 
+
+File > Preferences > > Keyboard Shortcuts
+
 
 search for Terminal Focus Previous Terminal
+
 `workbench.action.terminal.focusNext`
-add shotrcut 
-`ctrl+shift+alt+,`
+
+add shotrcut `ctrl+shift+alt+,`
+
+
+
 
 
 search for Terminal Focus Next Terminal
+
 `ctrl+shift+alt+.`
+
 workbench.action.terminal.focusPrevious
 
+
+
 search for Tasks: Restart Running task
+
 `ctrl+shift+alt+b`
+
 workbench.action.tasks.restartTask
+
+
+
 
 ```json
 {
