@@ -226,6 +226,51 @@ alt + scroll
 f8
 
 
+### Go to the defination
+`crtl+click` or `f12`
+
+
+
+
+
+# add some cusotm key shortcut
+
+go to settings > click on keyboard shortcut
+
+search for Terminal Focus Previous Terminal
+`workbench.action.terminal.focusNext`
+add shotrcut 
+`ctrl+shift+alt+,`
+
+
+search for Terminal Focus Next Terminal
+`ctrl+shift+alt+.`
+workbench.action.terminal.focusPrevious
+
+search for Tasks: Restart Running task
+`ctrl+shift+alt+b`
+workbench.action.tasks.restartTask
+
+```json
+{
+  "key": "ctrl+shift+alt+oem_period",
+  "command": "workbench.action.terminal.focusNext"
+}
+
+
+
+{
+  "key": "ctrl+shift+alt+oem_comma",
+  "command": "workbench.action.terminal.focusPrevious"
+}
+
+
+{
+  "key": "ctrl+shift+alt+b",
+  "command": "workbench.action.tasks.restartTask"
+}
+```
+
 
 <a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h2>Click here to Get Started with Django</h2></a>
 <p align="center">
@@ -233,3 +278,4 @@ f8
 <img src="https://github.com/satindersharma/all-images/blob/master/icons/django-logo-positive.png"  alt="Django icon">
 </a>
 </p>
+
