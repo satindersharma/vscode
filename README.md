@@ -274,11 +274,11 @@ workbench.files.action.collapseExplorerFolders
 
 
 ```json
+
 {
   "key": "ctrl+shift+alt+oem_period",
   "command": "workbench.action.terminal.focusNext"
 }
-
 
 
 {
