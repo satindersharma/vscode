@@ -298,7 +298,7 @@ workbench.files.action.collapseExplorerFolders
 }
 
 ```
-new changes
+new changes new changes
 
 <a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h2>Click here to Get Started with Django</h2></a>
 <p align="center">
