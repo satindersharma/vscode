@@ -255,7 +255,7 @@ search for Terminal Focus Next Terminal
 
 `ctrl+shift+alt+.`
 
-workbench.action.terminal.focusPrevious
+`workbench.action.terminal.focusPrevious`
 
 
 
