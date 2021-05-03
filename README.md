@@ -249,6 +249,7 @@ add shotrcut `ctrl+shift+alt+,`
 
 
 
+---
 
 
 search for Terminal Focus Next Terminal
