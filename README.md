@@ -161,8 +161,8 @@ uncheck to make changes(means set to false)
 ### enable emmet after vscode django extenstion
 
 setting > click on Extensions > click on `Edit in settings.json`
-add
-`"emmet.includeLanguages": {"django-html": "html"},`
+
+add`"emmet.includeLanguages": {"django-html": "html"},`
 
 
 
