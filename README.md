@@ -253,7 +253,7 @@ search for Terminal Focus Previous Terminal
 
 `workbench.action.terminal.focusNext`
 
-add shotrcut `ctrl+shift+alt+,`
+add shotrcut `ctrl+shift+alt+.`
 
 
 
@@ -262,7 +262,7 @@ add shotrcut `ctrl+shift+alt+,`
 
 search for Terminal Focus Next Terminal
 
-`ctrl+shift+alt+.`
+`ctrl+shift+alt+,`
 
 `workbench.action.terminal.focusPrevious`
 
