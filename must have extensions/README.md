@@ -62,6 +62,15 @@
     Publisher: Jun Han
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
+
+    Name: Peacock
+    Id: johnpapa.vscode-peacock
+    Description: Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
+    Version: 4.0.0
+    Publisher: John Papa
+    VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
+
+
     Name: HTML CSS Support
     Id: ecmel.vscode-html-css
     Description: CSS support for HTML documents
