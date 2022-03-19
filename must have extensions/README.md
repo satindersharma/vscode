@@ -24,6 +24,13 @@
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
 
+    Name: Dracula Official
+    Id: dracula-theme.theme-dracula
+    Description: Official Dracula Theme. A dark theme for many editors, shells, and more.
+    Version: 2.24.1
+    Publisher: Dracula Theme
+    VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
+
 
 
     Name: Prettier - Code formatter
