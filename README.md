@@ -142,11 +142,11 @@ Make this to true so the pritter will format the document.
 
 ### move the cursor to last working position
 
-`Alt` + `&#8592;`
+`Alt` + `&larr;`
 
 ### move the cursor to last working position bacword or forward
 
-`Alt` + `&#8592;` or `Alt` + `&#8594;`
+`Alt` + `&larr;` or `Alt` + `&rarr;`
 
 settings > open folder in new window
 
