@@ -140,7 +140,11 @@ check this field
 
 Make this to true so the pritter will format the document.
 
+### move the cursor to last working position
 
+Alt + &#8592
+
+settings > open folder in new window
 
 
 ### open folder in new window
