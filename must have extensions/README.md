@@ -92,3 +92,10 @@
     Publisher: Microsoft
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
 
+
+    Name: Thunder Client
+    Id: rangav.vscode-thunder-client
+    Description: Lightweight Rest API Client for VS Code
+    Version: 1.18.6
+    Publisher: Ranga Vadhineni
+    VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
