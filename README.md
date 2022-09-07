@@ -67,7 +67,7 @@ search     `workbench.files.action.collapseExplorerFolders`
 click on `Manage` (setting like icon on left lower corner) > `Settings`(or press `ctrl+,`)
 
 
-search    "workbench.editor.enablePreview"
+search    `workbench.editor.enablePreview`
 
 
 
@@ -159,16 +159,16 @@ dropdown to on
 
 ### Stop closing the non changed tab
 
-workbench.editor.enablePreview
+`workbench.editor.enablePreview`
 
-settings > workbench.editor.enablePreview
+`settings` > `workbench.editor.enablePreview`
 
 uncheck to make changes(means set to false)
 
 
 ### enable emmet after vscode django extenstion
 
-setting > click on Extensions > click on `Edit in settings.json`
+`setting` > click on `Extensions` > click on `Edit in settings.json`
 
 add`"emmet.includeLanguages": {"django-html": "html"},`
 
