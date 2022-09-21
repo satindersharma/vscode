@@ -6,8 +6,12 @@
     {
       "label": "Django: Run Server",
       "type": "shell",
+      // "command": "${env:WORKON_HOME}/${workspaceFolderBasename}/bin/python3",
       "command": "./venv/bin/python3",
       "windows": {
+        // create mkvirtualenv your_prject_main_folder_name (your project main folder(exact same) name)
+        // "command": "${env:USERPROFILE}\\Envs\\${workspaceFolderBasename}\\Scripts\\python.exe" // workspaceFolderBasename is your project folder name
+        // "command": "${env:WORKON_HOME}\\${workspaceFolderBasename}\\Scripts\\python.exe" // if you added env variable WORKON_HOME = %USERPROFILE%\Envs
         "command": "venv\\Scripts\\python.exe"
       },
       "args": [
