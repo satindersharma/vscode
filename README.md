@@ -197,9 +197,16 @@ f8
 
 `crtl+click` or `f12`
 
+### &rArr; How to enable auto import
+install `pylance` extention
+now to go to `settings` and search  `python.analysis.autoImportCompletions`
+mark it check
+#### increarse the depth for auto import
+go to `settings` and search `python.analysis.packageIndexDepths`
+click on `Edit in settings.json`
+increase the depth
 
-
-
+--
 
 # &rArr; add some cusotm key shortcut
 
