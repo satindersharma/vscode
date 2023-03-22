@@ -132,7 +132,7 @@ this is helpful incase you want some settings or configuration only for your cur
 
 
 
-### format on save
+### :fa-arrow-right: format on save
 
 setting > Format on Save 
 
@@ -140,11 +140,11 @@ check this field
 
 Make this to true so the pritter will format the document.
 
-### move the cursor to last working position
+### :fa-arrow-right: move the cursor to last working position
 
 `Alt` + &larr;
 
-### move the cursor to last working position bacword or forward
+### :fa-arrow-right: move the cursor to last working position bacword or forward
 
 `Alt` + &larr; or `Alt` + &rarr;
 
