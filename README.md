@@ -15,10 +15,7 @@ Visual Studio Code configuration for django
    -  `tasks.json`
    
 
-
-## Short discription:
-
-### To create settings.json
+### &rArr; To create settings.json
 
 
 `ctrl+shift+p`
@@ -27,7 +24,7 @@ Visual Studio Code configuration for django
 
 
 
-### To create launch.json:
+### &rArr; To create launch.json:
 
 
 `ctrl+shift+p`
@@ -35,14 +32,14 @@ Visual Studio Code configuration for django
 `Python` > `Django`
 
 
-### To create tasks.json:
+### &rArr; To create tasks.json:
 
 Run Build Task (Ctrl+Shift+B).
 
 `Ctrl+Shift+B`
 
 
-### To create project.code-workspace:
+### &rArr; To create project.code-workspace:
 
 
 `File` > `Add Folder to Workspace...`
@@ -52,7 +49,7 @@ Run Build Task (Ctrl+Shift+B).
 choose a name for this file for example `project`
 
 
-### set shotcut to folders to collapse
+### &rArr; set shotcut to folders to collapse
 
 
 click on `Manage` (setting like icon on left lower corner) > `Keyborad Shortcuts`(or press `ctrl+k` and `ctrl+s` consecutively)
@@ -62,7 +59,7 @@ search     `workbench.files.action.collapseExplorerFolders`
 `+` to add a shortcut
 
 
-### Prevent closing of previous open window
+### &rArr; Prevent closing of previous open window
 
 click on `Manage` (setting like icon on left lower corner) > `Settings`(or press `ctrl+,`)
 
@@ -70,53 +67,7 @@ click on `Manage` (setting like icon on left lower corner) > `Settings`(or press
 search    `workbench.editor.enablePreview`
 
 
-
-
-## Long discription:
-
-
-to create `settings.json`  ---->    just press `ctrl+shift+p` (this will open command pallete)
-
-type `python:Select Interpreter`
-
-This will look for availabel interpreter in your system.
-
-choose one Interpreter and it will gentrate a file  `settings.json` inside `.vscode` directory
-
-
-Click on `debug` icon(4th one on the left corner) -->   click on `create a launch.json file`
- 
- the pop up search bar like will apear which is a `debug configuration bar`
- `Python` > `Django`
- 
- (
-when there is no Python then
-
-under debug configuration bar click on `more`
-
-(if no other menu appear it means you havn't set your python interpreter)
-
-click on `django`
-)
-
-this will create a `launch.json` file
-
-
-
-
-On every startup of vscode if think you virtual env is not working 
-
-then just do 
-
-`ctrl+shift+p` ( to open command pallete)
-
-and
-
-``` ctrl+shift+` ``` ( to open terminal)
-
-
-
-### To create project.code-workspace:
+### &rArr; To create project.code-workspace:
 
 
 `File` > `Add Folder to Workspace...`
@@ -151,13 +102,13 @@ Make this to true so the pritter will format the document.
 settings > open folder in new window
 
 
-### open folder in new window
+### &rArr; open folder in new window
 
 settings > open folder in new window
 
 dropdown to on 
 
-### Stop closing the non changed tab
+### &rArr; Stop closing the non changed tab
 
 `workbench.editor.enablePreview`
 
@@ -166,7 +117,7 @@ dropdown to on
 uncheck to make changes(means set to false)
 
 
-### enable emmet after vscode django extenstion
+### &rArr; enable emmet after vscode django extenstion
 
 `setting` > click on `Extensions` > click on `Edit in settings.json`
 
@@ -176,29 +127,29 @@ add`"emmet.includeLanguages": {"django-html": "html"},`
 
 
 
-### Move back to last cursor position
+### &rArr; Move back to last cursor position
 ctrl + u
 
 
 
-### split
+### &rArr; split
 ctrl + \
 
 
-### collapse all code
+### &rArr; collapse all code
 
 ctrl + k + 0
 
 
 
-### expand all code
+### &rArr; expand all code
 
 ctrl + k + j
 
 
 
 
-### join lines
+### &rArr; join lines
 
 make selection of the lines which you want in one line
 
@@ -209,40 +160,40 @@ search join lines
 hit enter
 
 
-### Switch between recent tabs
+### &rArr; Switch between recent tabs
 
 ctrl + Tab
 
 
-### Run currunt line code
+### &rArr; Run currunt line code
 
 (this will run the code in a new python shell)
 shift + enter
 
-### Get out of the qoutes or get cursor out of the string
+### &rArr; Get out of the qoutes or get cursor out of the string
 
 Ctrl + Shift + \
 
 
 
-### Show/Hide panel(the cmd panel)
+### &rArr; Show/Hide panel(the cmd panel)
 
 Ctrl + j
 
 
 
-### Scroll Fast
+### &rArr; Scroll Fast
 
 alt + scroll
 
 
 
-### move the cursor to error 
+### &rArr; move the cursor to error 
 
 f8
 
 
-### Go to the defination
+### &rArr; Go to the defination
 
 `crtl+click` or `f12`
 
@@ -250,7 +201,7 @@ f8
 
 
 
-# add some cusotm key shortcut
+# &rArr; add some cusotm key shortcut
 
 go to 
 
