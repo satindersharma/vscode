@@ -234,18 +234,20 @@ add shotrcut `ctrl+shift+alt+.`
 
 ---
 
-### How to enable auto import
+# &rArr;  How to enable auto import
 
 install pylance extention
 
-now to go to settings and search python.analysis.autoImportCompletions
+
+now to go to settings and search `python.analysis.autoImportCompletions`
 
 mark it check
+
 increarse the depth for auto import
 
-go to settings and search python.analysis.packageIndexDepths
+go to settings and search `python.analysis.packageIndexDepths`
 
-click on Edit in settings.json
+click on Edit in `settings.json`
 
 increase the depth. restart vs code and wait for a bit
 
@@ -253,26 +255,27 @@ increase the depth. restart vs code and wait for a bit
 ---
 
 
-search for Terminal Focus Next Terminal
+# &rArr; search for Terminal Focus Next Terminal
 
 `ctrl+shift+alt+,`
 
 `workbench.action.terminal.focusPrevious`
 
+---
 
-
-search for Tasks: Restart Running task
+# &rArr; search for Tasks: Restart Running task
 
 `ctrl+shift+alt+b`
 
 workbench.action.tasks.restartTask
 
+---
 
-search for Collapse Folders in Explorer
+# &rArr; search for Collapse Folders in Explorer
 
 `ctrl+shift+alt+c`
 
-workbench.files.action.collapseExplorerFolders
+`workbench.files.action.collapseExplorerFolders`
 
 
 ```json
@@ -300,12 +303,3 @@ workbench.files.action.collapseExplorerFolders
 }
 
 ```
-new changes new changes
-
-<a href="https://github.com/satindersharma/django-getting-started"  target="_blank"><h2>Click here to Get Started with Django</h2></a>
-<p align="center">
-<a href="https://github.com/satindersharma/django-getting-started">
-<img src="https://github.com/satindersharma/all-images/blob/master/icons/django-logo-positive.png"  alt="Django icon">
-</a>
-</p>
-
